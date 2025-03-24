@@ -8,7 +8,7 @@ title: "Building a Currency Converter"
 
 Agile methodology is a flexible and iterative approach to software development that promotes collaboration, adaptability, and customer satisfaction. One of the most widely used Agile frameworks is Scrum; however, we have chosen Sprint, which helps teams deliver functional software in incremental stages called sprints. This document explains how to apply Agile methodology to efficiently build a currency converter application.
 
-## 1. Defining the Product Visions
+## 1. Defining the Product Vision
 
 The first step in an Agile approach is to establish a clear product vision. The currency converter application should allow users to convert between different currencies in real time, ensuring accuracy and efficiency.
 
